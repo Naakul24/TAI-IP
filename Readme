@@ -1,3 +1,5 @@
 This is a readme file for the internship.
-The main file for task 1 is : task1.ipynb
+The main file for task 1 is : task-1.ipynb
 the csv files for task 1 are: 1. SBIN.NS.csv, 2. NIFTY 50_Data.csv, 3. Gold.csv
+The main file for task 2 is: task-2.ipynb
+The csv file for task 2 is: HousePricePrediction.csv
